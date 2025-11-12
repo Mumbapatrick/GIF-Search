@@ -1,0 +1,47 @@
+# Android Studio / IntelliJ
+*.iml
+.gradle/
+local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/
+.DS_Store
+
+# Build and generated files
+/build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore (very important)
+*.jks
+*.keystore
+
+# Logs
+*.log
+hs_err_pid*
+replay_pid*
+
+# Kotlin error logs
+.kotlin/
+
+# APKs and release outputs
+*.apk
+*.aab
+/release/
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Jetpack Compose Preview cache
+compose-preview-cache/
+
+# Gradle wrapper logs
+gradle-app.setting

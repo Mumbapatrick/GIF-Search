@@ -44,8 +44,6 @@ A modern Android application built with **Kotlin** and **Jetpack Compose** that 
 | **Image Loading** | Coil for GIF loading |
 
 
----
-
 ## ⚙️ Setup Instructions
 
 ### Clone the Repository
